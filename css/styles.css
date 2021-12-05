@@ -4509,6 +4509,10 @@ textarea.form-control-lg {
   color: #fff;
 }
 
+.social_link{
+  color: #f7bea9;
+}
+
 .card {
   position: relative;
   display: flex;
